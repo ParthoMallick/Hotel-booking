@@ -149,8 +149,8 @@
                                     <i class="fa fa-pencil pb-5"></i>
                                 </div>
                             </div>
-                            <div class="row g-3 py-4">
-                                <div class="col-4  mx-auto ">
+                            <div class="py-4  d-flex align-items-center justify-content-center">
+                                <div class="">
                                     <div class="home-book-now-form-button-with-icon">
                                         <button type="button"
                                                 class="btn btn-warning text-light rounded-pill py-3 home-book-now-form-btn">
@@ -171,7 +171,7 @@
         <section class="our-staff-hotel-logo-collection py-5 ">
             <div class="container py-5">
                 <div class="row row-cols-2 row-cols-sm-3 row-cols-md-3 row-cols-lg-6 g-5">
-                    <div class="col">
+                    <div class="col d-flex align-items-center justify-content-center">
                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
                              xmlns:svgjs="http://svgjs.com/svgjs" width="80" height="80" x="0" y="0"
                              viewBox="0 0 540.52 540.519" style="enable-background:new 0 0 512 512" xml:space="preserve"
@@ -188,7 +188,7 @@
                             </g>
                         </svg>
                     </div>
-                    <div class="col">
+                    <div class="col d-flex align-items-center justify-content-center">
                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
                              xmlns:svgjs="http://svgjs.com/svgjs" width="80" height="80" x="0" y="0"
                              viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve"
@@ -205,7 +205,7 @@
                             </g>
                         </svg>
                     </div>
-                    <div class="col">
+                    <div class="col d-flex align-items-center justify-content-center">
                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
                              xmlns:svgjs="http://svgjs.com/svgjs" width="80" height="80" x="0" y="0" viewBox="0 0 64 64"
                              style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
@@ -222,7 +222,7 @@
                             </g>
                         </svg>
                     </div>
-                    <div class="col">
+                    <div class="col d-flex align-items-center justify-content-center">
                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
                              xmlns:svgjs="http://svgjs.com/svgjs" width="80" height="80" x="0" y="0"
                              viewBox="0 0 540.52 540.519" style="enable-background:new 0 0 512 512" xml:space="preserve"
@@ -239,7 +239,7 @@
                             </g>
                         </svg>
                     </div>
-                    <div class="col">
+                    <div class="col d-flex align-items-center justify-content-center">
                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
                              xmlns:svgjs="http://svgjs.com/svgjs" width="80" height="80" x="0" y="0"
                              viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve"
@@ -256,7 +256,7 @@
                             </g>
                         </svg>
                     </div>
-                    <div class="col">
+                    <div class="col d-flex align-items-center justify-content-center">
                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
                              xmlns:svgjs="http://svgjs.com/svgjs" width="80" height="80" x="0" y="0" viewBox="0 0 64 64"
                              style="enable-background:new 0 0 512 512" xml:space="preserve" class="">

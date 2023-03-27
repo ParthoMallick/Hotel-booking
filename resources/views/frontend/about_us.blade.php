@@ -58,15 +58,15 @@
                 <div class="row about-image-bottom-content">
                     <div class="col-5 about-image-bottom-content-left">
                         <div class="card border-0 rounded-0 mb-3 about-image-bottom-content-left-card">
-                            <div class="card-body  p-5">
+                            <div class="card-body ">
                                 <h3 class="card-title fw-bold">An Professional Hotel, Living Service Provider Company
                                 </h3>
-                                <p class="card-text small py-4">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing
                                     elit.
                                     Nam, molestias commodi, officia quas consequatur dicta voluptatibus eaque totam
                                     consectetur, autem recusandae sunt dolores magnam expedita repudiandae sed porro
                                     inventore cum.</p>
-                                <a href="#" class="btn btn-warning rounded-pill text-light fw-semibold py-2 px-4">GET
+                                <a href="#" class="btn btn-warning rounded-pill text-light fw-semibold ">GET
                                     STARTED
                                     <i class="fa fa-long-arrow-right"></i>
                                 </a>
